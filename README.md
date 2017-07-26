@@ -1,2 +1,2 @@
 # hello-world
-a test repository
+my name is yangyong .Now I am learning about github
